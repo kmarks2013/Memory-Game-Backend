@@ -23,6 +23,7 @@ ActiveRecord::Schema.define(version: 2020_04_01_220726) do
   create_table "scores", force: :cascade do |t|
     t.bigint "user_id", null: false
     t.bigint "game_id", null: false
+    t.float "score"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["game_id"], name: "index_scores_on_game_id"
