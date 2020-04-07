@@ -1,7 +1,8 @@
 class ScoresController < ApplicationController
 
     def index
-        render json: Score.all
+        scores = Score.all
+        render json: scores.high_scores, include: "**"
     end
 
     def create
