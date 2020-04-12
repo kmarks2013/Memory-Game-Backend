@@ -1,5 +1,3 @@
 class User < ApplicationRecord
-    has_one :score
-
-    #this comment is to test my git
+    has_one :score, dependent: :destroy
 end
