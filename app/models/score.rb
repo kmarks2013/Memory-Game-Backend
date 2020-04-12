@@ -1,8 +1,8 @@
 class Score < ApplicationRecord
   belongs_to :user
 
-  def self.high_scores
-    order("score DESC").first(10)
+  def self.index_order
+    order('score DESC')
   end
 
 end
