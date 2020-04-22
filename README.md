@@ -54,3 +54,9 @@ To Be Added
 8. Netlify
 9. Media Queries
 10. Active Record Reset PK Sequence
+
+## Future Updates
+
+1. Card Flip Animation
+2. Highlighting newest score.
+3. Different Difficulties.
