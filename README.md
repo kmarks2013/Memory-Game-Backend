@@ -24,6 +24,11 @@ It is hosted on [heroku](http://total-recall-backend.herokuapp.com/).
 
 ## Frontend
 
+Total Recall's frontend is built using React.  The Total Recall logo was created wtih SVG. The game was styled with Responsive CSS to fit most screens and devices.
+
+For more information about the frontend see below:
+[Total Recall Frontend Client](https://github.com/deryatanriverdi88/Memory-Game)
+
 ## Demo
 
 ## Installation
