@@ -35,6 +35,13 @@ To Be Added
 
 ## Installation
 
+    Clone repo and CD into the directory
+    bundle install
+    run rails db:create to create your postgres database
+    run rails db:migrate to bring up migrations
+    run rails db:seed to seed data for champions and items
+    run rails s to start the server
+
 ## Technologies Used
 
 ## Future Updates
