@@ -18,6 +18,9 @@ We developed this game to further expand our understanding of React. While devel
 6. Displaying and manipulating a timer.
 
 ## Backend
+Total Recall's backend is built using a Ruby on Rails API, with endpoints for the users and scores.
+
+It is hosted on [heroku](http://total-recall-backend.herokuapp.com/).
 
 ## Frontend
 
