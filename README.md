@@ -1,24 +1,17 @@
-# README
+# Total Recall
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## What is Total Recall?
 
-Things you may want to cover:
+## Motivation
 
-* Ruby version
+## Backend
 
-* System dependencies
+## Frontend
 
-* Configuration
+## Demo
 
-* Database creation
+## Installation
 
-* Database initialization
+## Technologies Used
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Future Updates
